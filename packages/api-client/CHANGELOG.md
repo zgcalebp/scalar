@@ -1,5 +1,15 @@
 # @scalar/api-client
 
+## 3.1.0
+
+### Minor Changes
+
+- [#8865](https://github.com/scalar/scalar/pull/8865): feat: add plugin support for custom response body content types
+
+### Patch Changes
+
+- [#8810](https://github.com/scalar/scalar/pull/8810): refactor: move telemetry to an optional plugin
+
 ## 3.0.0
 
 ### Major Changes

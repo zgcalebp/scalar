@@ -1,5 +1,11 @@
 # @scalar/snippetz
 
+## 0.9.1
+
+### Patch Changes
+
+- [#8862](https://github.com/scalar/scalar/pull/8862): add `python/aiohttp` as a supported code snippet client and expose it through shared snippet client types and config schemas
+
 ## 0.9.0
 
 ### Minor Changes

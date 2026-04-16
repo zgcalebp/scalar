@@ -1,5 +1,12 @@
 # @scalar/api-reference
 
+## 1.52.3
+
+### Patch Changes
+
+- [#8810](https://github.com/scalar/scalar/pull/8810): refactor: move telemetry to an optional plugin
+- [#8859](https://github.com/scalar/scalar/pull/8859): refactor api-reference exports and enforce strict Vite entrypoint resolution from package exports
+
 ## 1.52.2
 
 ### Patch Changes

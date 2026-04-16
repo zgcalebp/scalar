@@ -1,5 +1,11 @@
 # @scalar/server-side-rendering
 
+## 0.1.3
+
+### Patch Changes
+
+- [#8859](https://github.com/scalar/scalar/pull/8859): refactor api-reference exports and enforce strict Vite entrypoint resolution from package exports
+
 ## 0.1.2
 
 ### Patch Changes
